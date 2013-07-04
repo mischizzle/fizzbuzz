@@ -1,4 +1,4 @@
-var fizzbuzz = {
+var FizzBuzz = {
 
   conf : {
     min : 1,
@@ -56,4 +56,4 @@ var fizzbuzz = {
   }
 }
 
-fizzbuzz.start();
+FizzBuzz.start();
